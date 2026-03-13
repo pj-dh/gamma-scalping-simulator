@@ -1,5 +1,5 @@
 # Gamma Scalping Training Simulator
-### A Beginner-Friendly Quantitative Finance Learning Tool
+
 
 ---
 
