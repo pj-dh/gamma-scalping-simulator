@@ -1,0 +1,4 @@
+Scenario,Realized_Vol,Implied_Vol,Vol_Premium,Net_PnL,Hedge_PnL,Trans_Costs
+"High Vol (rv=30%, iv=20%)",0.3,0.2,0.1,28.34,-1018.89,3.73
+"Fair Vol (rv=20%, iv=20%)",0.2,0.2,0.0,0.56,308.54,2.87
+"Low  Vol (rv=12%, iv=20%)",0.12,0.2,-0.08,-59.08,248.01,1.97

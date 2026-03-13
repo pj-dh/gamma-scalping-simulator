@@ -1,0 +1,4 @@
+Frequency,Rebalances,Hedge_PnL,Option_PnL,Trans_Costs,Net_PnL
+Every Minute,11701,361.31,-305.12,49.08,7.12
+Every Hour,196,356.81,-305.12,6.53,45.17
+Every Day,31,315.54,-305.12,2.56,7.87
